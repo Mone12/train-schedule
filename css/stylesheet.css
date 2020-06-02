@@ -1,3 +1,13 @@
 #input-area{
     margin:50px;
 }
+ body {
+     background-image: url("../images/trainimg.jpg");
+     background-size: cover;
+     background-repeat: no-repeat;
+ }
+.container {
+    margin-top: 20px;
+    padding-bottom: 80px; 
+    background-color: rgba(255, 255, 255, 0.502);
+}
